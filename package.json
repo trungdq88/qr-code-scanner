@@ -1,6 +1,6 @@
 {
   "name": "@trungdq88/qr-code-scanner",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Scan QR codes using the rear camera of a phone inside React",
   "repository": {
     "type": "git",
